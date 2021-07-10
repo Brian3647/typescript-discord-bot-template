@@ -35,4 +35,6 @@ const config: Config = {
 ```
 
 You can add events and commands to the bot adding files in `src/events` or `src/commands` respectively.
-The examples are `src/events/ready.ts` and `src/commands/ping.ts`
+The examples are `src/events/ready.ts` and `src/commands/ping.ts`.
+
+You can run the bot running `yarn build` and then `yarn start` or just runinng `yarn dev`.
